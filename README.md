@@ -1,1 +1,1 @@
-# We translate data into imsights
+# We translate data into insights
